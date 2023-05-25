@@ -18,6 +18,7 @@
         this.sexo = sexo;
         
     }
+    //IMc 
     public (double, string, string) Imc()
     {
        
