@@ -1,0 +1,11 @@
+C:\Users\daluz\source\repos\Forms3\Forms3\bin\Debug\Forms3.exe.config
+C:\Users\daluz\source\repos\Forms3\Forms3\bin\Debug\Forms3.exe
+C:\Users\daluz\source\repos\Forms3\Forms3\bin\Debug\Forms3.pdb
+C:\Users\daluz\source\repos\Forms3\Forms3\obj\Debug\Forms3.csproj.AssemblyReference.cache
+C:\Users\daluz\source\repos\Forms3\Forms3\obj\Debug\Forms3.csproj.SuggestedBindingRedirects.cache
+C:\Users\daluz\source\repos\Forms3\Forms3\obj\Debug\Forms3.Form1.resources
+C:\Users\daluz\source\repos\Forms3\Forms3\obj\Debug\Forms3.Properties.Resources.resources
+C:\Users\daluz\source\repos\Forms3\Forms3\obj\Debug\Forms3.csproj.GenerateResource.cache
+C:\Users\daluz\source\repos\Forms3\Forms3\obj\Debug\Forms3.csproj.CoreCompileInputs.cache
+C:\Users\daluz\source\repos\Forms3\Forms3\obj\Debug\Forms3.exe
+C:\Users\daluz\source\repos\Forms3\Forms3\obj\Debug\Forms3.pdb
